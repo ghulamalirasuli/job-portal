@@ -1,0 +1,52 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Znajdź pracę, która napędza Europę."
+    },
+    "nav": {
+        "jobs": "Szukaj pracy",
+        "companies": "Firmy",
+        "for_employers": "Dla pracodawców",
+        "post_job": "Dodaj ofertę",
+        "login": "Zaloguj się",
+        "register": "Zarejestruj się",
+        "dashboard": "Panel",
+        "profile": "Profil",
+        "settings": "Ustawienia",
+        "logout": "Wyloguj się"
+    },
+    "home": {
+        "hero_title": "Twoja następna praca — w całej Europie.",
+        "hero_subtitle": "Odkryj tysiące zweryfikowanych ofert w 24 krajach. Aplikuj jednym kliknięciem.",
+        "search_placeholder": "Stanowisko, słowo kluczowe lub firma",
+        "location_placeholder": "Miasto, kraj lub zdalnie",
+        "search_button": "Szukaj",
+        "cta_seeker": "Załóż konto kandydata",
+        "cta_employer": "Załóż konto pracodawcy"
+    },
+    "auth": {
+        "login_title": "Zaloguj się do konta",
+        "register_title": "Utwórz konto",
+        "register_as_seeker": "Szukam pracy",
+        "register_as_employer": "Rekrutuję",
+        "email": "Adres e-mail",
+        "password": "Hasło",
+        "submit_login": "Zaloguj się",
+        "submit_register": "Utwórz konto"
+    },
+    "common": {
+        "save": "Zapisz",
+        "cancel": "Anuluj",
+        "delete": "Usuń",
+        "search": "Szukaj",
+        "language_switcher_label": "Język"
+    },
+    "footer": {
+        "privacy": "Prywatność",
+        "terms": "Regulamin",
+        "imprint": "Informacje prawne",
+        "gdpr": "RODO",
+        "contact": "Kontakt",
+        "copyright": "© {{year}} Europa Jobs. Wszelkie prawa zastrzeżone."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Trova un lavoro che fa muovere l'Europa."
+    },
+    "nav": {
+        "jobs": "Cerca lavoro",
+        "companies": "Aziende",
+        "for_employers": "Per i datori di lavoro",
+        "post_job": "Pubblica offerta",
+        "login": "Accedi",
+        "register": "Registrati",
+        "dashboard": "Dashboard",
+        "profile": "Profilo",
+        "settings": "Impostazioni",
+        "logout": "Esci"
+    },
+    "home": {
+        "hero_title": "Il tuo prossimo lavoro, ovunque in Europa.",
+        "hero_subtitle": "Scopri migliaia di opportunità verificate in 24 paesi. Candidati con un clic.",
+        "search_placeholder": "Titolo lavoro, parola chiave o azienda",
+        "location_placeholder": "Città, paese o remoto",
+        "search_button": "Cerca",
+        "cta_seeker": "Crea account candidato",
+        "cta_employer": "Crea account datore di lavoro"
+    },
+    "auth": {
+        "login_title": "Accedi al tuo account",
+        "register_title": "Crea il tuo account",
+        "register_as_seeker": "Cerco lavoro",
+        "register_as_employer": "Sto assumendo",
+        "email": "Indirizzo email",
+        "password": "Password",
+        "submit_login": "Accedi",
+        "submit_register": "Crea account"
+    },
+    "common": {
+        "save": "Salva",
+        "cancel": "Annulla",
+        "delete": "Elimina",
+        "search": "Cerca",
+        "language_switcher_label": "Lingua"
+    },
+    "footer": {
+        "privacy": "Privacy",
+        "terms": "Termini",
+        "imprint": "Note legali",
+        "gdpr": "GDPR",
+        "contact": "Contatti",
+        "copyright": "© {{year}} Europa Jobs. Tutti i diritti riservati."
+    }
+}

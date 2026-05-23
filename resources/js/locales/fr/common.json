@@ -1,0 +1,83 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Trouvez un emploi qui fait avancer l'Europe."
+    },
+    "nav": {
+        "jobs": "Trouver un emploi",
+        "companies": "Entreprises",
+        "for_employers": "Pour les employeurs",
+        "post_job": "Publier une offre",
+        "login": "Connexion",
+        "register": "S'inscrire",
+        "dashboard": "Tableau de bord",
+        "profile": "Profil",
+        "settings": "Paramètres",
+        "logout": "Se déconnecter"
+    },
+    "home": {
+        "hero_title": "Votre prochain poste, partout en Europe.",
+        "hero_subtitle": "Découvrez des milliers d'opportunités vérifiées dans 24 pays. Postulez en un clic.",
+        "search_placeholder": "Métier, mot-clé ou entreprise",
+        "location_placeholder": "Ville, pays ou télétravail",
+        "search_button": "Rechercher",
+        "popular_searches": "Recherches populaires",
+        "for_seekers_title": "Pour les candidats",
+        "for_seekers_body": "Créez un CV soigné, recevez des offres adaptées et suivez chaque candidature.",
+        "for_employers_title": "Pour les employeurs",
+        "for_employers_body": "Atteignez les bons candidats dans l'UE avec une facturation conforme au RGPD et SCA.",
+        "cta_seeker": "Créer un compte candidat",
+        "cta_employer": "Créer un compte employeur"
+    },
+    "auth": {
+        "login_title": "Connectez-vous à votre compte",
+        "register_title": "Créer votre compte",
+        "register_subtitle": "Choisissez comment vous souhaitez utiliser Europa Jobs.",
+        "register_as_seeker": "Je cherche un emploi",
+        "register_as_employer": "Je recrute",
+        "email": "Adresse e-mail",
+        "password": "Mot de passe",
+        "password_confirmation": "Confirmer le mot de passe",
+        "name": "Nom complet",
+        "company_name": "Nom de l'entreprise",
+        "country": "Pays",
+        "remember": "Se souvenir de moi",
+        "forgot": "Mot de passe oublié ?",
+        "submit_login": "Se connecter",
+        "submit_register": "Créer le compte",
+        "have_account": "Vous avez déjà un compte ?",
+        "no_account": "Pas encore de compte ?",
+        "log_in": "Se connecter",
+        "sign_up": "S'inscrire",
+        "forgot_title": "Réinitialiser votre mot de passe",
+        "forgot_body": "Entrez votre e-mail et nous vous enverrons un lien de réinitialisation.",
+        "send_reset_link": "Envoyer le lien",
+        "reset_title": "Choisir un nouveau mot de passe",
+        "reset_submit": "Réinitialiser",
+        "verify_title": "Vérifiez votre e-mail",
+        "verify_body": "Merci pour votre inscription. Cliquez sur le lien envoyé à {{email}} pour activer votre compte.",
+        "verify_resend": "Renvoyer l'e-mail de vérification",
+        "verify_sent": "Un nouveau lien de vérification a été envoyé."
+    },
+    "common": {
+        "save": "Enregistrer",
+        "cancel": "Annuler",
+        "delete": "Supprimer",
+        "back": "Retour",
+        "loading": "Chargement…",
+        "search": "Rechercher",
+        "yes": "Oui",
+        "no": "Non",
+        "optional": "facultatif",
+        "required_field": "Champ requis",
+        "language_switcher_label": "Langue"
+    },
+    "footer": {
+        "privacy": "Confidentialité",
+        "terms": "Conditions",
+        "imprint": "Mentions légales",
+        "gdpr": "RGPD",
+        "contact": "Contact",
+        "copyright": "© {{year}} Europa Jobs. Tous droits réservés."
+    }
+}

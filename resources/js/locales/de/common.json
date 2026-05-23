@@ -1,0 +1,83 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Finden Sie Arbeit, die Europa voranbringt."
+    },
+    "nav": {
+        "jobs": "Jobs finden",
+        "companies": "Unternehmen",
+        "for_employers": "Für Arbeitgeber",
+        "post_job": "Stelle ausschreiben",
+        "login": "Anmelden",
+        "register": "Registrieren",
+        "dashboard": "Übersicht",
+        "profile": "Profil",
+        "settings": "Einstellungen",
+        "logout": "Abmelden"
+    },
+    "home": {
+        "hero_title": "Ihr nächster Job — überall in Europa.",
+        "hero_subtitle": "Entdecken Sie tausende geprüfte Stellen in 24 Ländern. Bewerben Sie sich mit einem Klick.",
+        "search_placeholder": "Berufsbezeichnung, Stichwort oder Firma",
+        "location_placeholder": "Stadt, Land oder Remote",
+        "search_button": "Suchen",
+        "popular_searches": "Beliebte Suchen",
+        "for_seekers_title": "Für Stellensuchende",
+        "for_seekers_body": "Erstellen Sie einen modernen Lebenslauf und verfolgen Sie jede Bewerbung.",
+        "for_employers_title": "Für Arbeitgeber",
+        "for_employers_body": "Erreichen Sie die richtigen Kandidaten in der EU — DSGVO-konform und SCA-bereit.",
+        "cta_seeker": "Bewerber-Konto erstellen",
+        "cta_employer": "Arbeitgeber-Konto erstellen"
+    },
+    "auth": {
+        "login_title": "In Ihr Konto anmelden",
+        "register_title": "Konto erstellen",
+        "register_subtitle": "Wählen Sie, wie Sie Europa Jobs nutzen möchten.",
+        "register_as_seeker": "Ich suche einen Job",
+        "register_as_employer": "Ich stelle ein",
+        "email": "E-Mail-Adresse",
+        "password": "Passwort",
+        "password_confirmation": "Passwort bestätigen",
+        "name": "Vollständiger Name",
+        "company_name": "Unternehmensname",
+        "country": "Land",
+        "remember": "Angemeldet bleiben",
+        "forgot": "Passwort vergessen?",
+        "submit_login": "Anmelden",
+        "submit_register": "Konto erstellen",
+        "have_account": "Bereits ein Konto?",
+        "no_account": "Noch kein Konto?",
+        "log_in": "Anmelden",
+        "sign_up": "Registrieren",
+        "forgot_title": "Passwort zurücksetzen",
+        "forgot_body": "Geben Sie Ihre E-Mail ein und wir senden Ihnen einen Reset-Link.",
+        "send_reset_link": "Link senden",
+        "reset_title": "Neues Passwort wählen",
+        "reset_submit": "Zurücksetzen",
+        "verify_title": "E-Mail bestätigen",
+        "verify_body": "Danke für Ihre Registrierung. Klicken Sie auf den Link, den wir an {{email}} gesendet haben.",
+        "verify_resend": "Verifizierungs-E-Mail erneut senden",
+        "verify_sent": "Ein neuer Verifizierungslink wurde gesendet."
+    },
+    "common": {
+        "save": "Speichern",
+        "cancel": "Abbrechen",
+        "delete": "Löschen",
+        "back": "Zurück",
+        "loading": "Lädt…",
+        "search": "Suchen",
+        "yes": "Ja",
+        "no": "Nein",
+        "optional": "optional",
+        "required_field": "Pflichtfeld",
+        "language_switcher_label": "Sprache"
+    },
+    "footer": {
+        "privacy": "Datenschutz",
+        "terms": "AGB",
+        "imprint": "Impressum",
+        "gdpr": "DSGVO",
+        "contact": "Kontakt",
+        "copyright": "© {{year}} Europa Jobs. Alle Rechte vorbehalten."
+    }
+}

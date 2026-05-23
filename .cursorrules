@@ -1,0 +1,20 @@
+You are an expert in Laravel 12, React 19, Inertia.js, and TailwindCSS v4.
+
+Stack:
+- Backend: PHP 8.3, Laravel 12, MySQL 8, Redis, Laravel Sanctum, Cashier-Stripe
+- Frontend: React 19, Inertia.js, TailwindCSS v4, TanStack Query, Zustand, react-i18next
+- Payments: Stripe (laravel/cashier-stripe), EU VAT compliant
+- Search: Laravel Scout + Meilisearch
+
+Rules:
+- Use strict PHP typing (declare(strict_types=1))
+- Follow PSR-12 coding standards
+- Use Laravel Form Requests for validation
+- Use Inertia.js for all page components (no separate API unless mobile)
+- Use React hooks (no class components)
+- All user-facing strings must use useTranslation() / t() from react-i18next
+- Use Tailwind utility classes, avoid custom CSS unless necessary
+- Write PHPUnit tests for all controllers and services
+- Generate migrations with proper foreign keys and indexes
+- GDPR: never log personal data, always allow account deletion
+- Stripe: always handle webhooks idempotently

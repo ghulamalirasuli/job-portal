@@ -1,0 +1,52 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Vind werk dat Europa vooruit helpt."
+    },
+    "nav": {
+        "jobs": "Vacatures zoeken",
+        "companies": "Bedrijven",
+        "for_employers": "Voor werkgevers",
+        "post_job": "Vacature plaatsen",
+        "login": "Inloggen",
+        "register": "Registreren",
+        "dashboard": "Dashboard",
+        "profile": "Profiel",
+        "settings": "Instellingen",
+        "logout": "Uitloggen"
+    },
+    "home": {
+        "hero_title": "Je volgende baan, ergens in Europa.",
+        "hero_subtitle": "Ontdek duizenden geverifieerde vacatures in 24 landen. Solliciteer met één klik.",
+        "search_placeholder": "Functie, trefwoord of bedrijf",
+        "location_placeholder": "Stad, land of remote",
+        "search_button": "Zoeken",
+        "cta_seeker": "Maak werkzoekende-account",
+        "cta_employer": "Maak werkgevers-account"
+    },
+    "auth": {
+        "login_title": "Log in op je account",
+        "register_title": "Maak je account",
+        "register_as_seeker": "Ik zoek werk",
+        "register_as_employer": "Ik werf personeel",
+        "email": "E-mailadres",
+        "password": "Wachtwoord",
+        "submit_login": "Inloggen",
+        "submit_register": "Account maken"
+    },
+    "common": {
+        "save": "Opslaan",
+        "cancel": "Annuleren",
+        "delete": "Verwijderen",
+        "search": "Zoeken",
+        "language_switcher_label": "Taal"
+    },
+    "footer": {
+        "privacy": "Privacy",
+        "terms": "Voorwaarden",
+        "imprint": "Colofon",
+        "gdpr": "AVG",
+        "contact": "Contact",
+        "copyright": "© {{year}} Europa Jobs. Alle rechten voorbehouden."
+    }
+}

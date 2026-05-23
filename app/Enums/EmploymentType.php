@@ -1,0 +1,33 @@
+<?php
+
+declare(strict_types=1);
+
+namespace App\Enums;
+
+enum EmploymentType: string
+{
+    case FullTime = 'full_time';
+    case PartTime = 'part_time';
+    case Contract = 'contract';
+    case Internship = 'internship';
+    case Temporary = 'temporary';
+
+    public function label(): string
+    {
+        return match ($this) {
+            self::FullTime => 'Full-time',
+            self::PartTime => 'Part-time',
+            self::Contract => 'Contract',
+            self::Internship => 'Internship',
+            self::Temporary => 'Temporary',
+        };
+    }
+
+    /**
+     * @return array<int, string>
+     */
+    public static function values(): array
+    {
+        return array_map(static fn (self $s): string => $s->value, self::cases());
+    }
+}

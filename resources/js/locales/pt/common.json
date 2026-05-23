@@ -1,0 +1,52 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Encontre trabalho que faz a Europa avançar."
+    },
+    "nav": {
+        "jobs": "Procurar emprego",
+        "companies": "Empresas",
+        "for_employers": "Para empregadores",
+        "post_job": "Publicar vaga",
+        "login": "Entrar",
+        "register": "Registar",
+        "dashboard": "Painel",
+        "profile": "Perfil",
+        "settings": "Definições",
+        "logout": "Sair"
+    },
+    "home": {
+        "hero_title": "O seu próximo emprego, em qualquer parte da Europa.",
+        "hero_subtitle": "Descubra milhares de oportunidades verificadas em 24 países. Candidate-se com um clique.",
+        "search_placeholder": "Cargo, palavra-chave ou empresa",
+        "location_placeholder": "Cidade, país ou remoto",
+        "search_button": "Procurar",
+        "cta_seeker": "Criar conta de candidato",
+        "cta_employer": "Criar conta de empregador"
+    },
+    "auth": {
+        "login_title": "Entre na sua conta",
+        "register_title": "Crie a sua conta",
+        "register_as_seeker": "Procuro emprego",
+        "register_as_employer": "Estou a contratar",
+        "email": "Endereço de email",
+        "password": "Palavra-passe",
+        "submit_login": "Entrar",
+        "submit_register": "Criar conta"
+    },
+    "common": {
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "delete": "Eliminar",
+        "search": "Procurar",
+        "language_switcher_label": "Idioma"
+    },
+    "footer": {
+        "privacy": "Privacidade",
+        "terms": "Termos",
+        "imprint": "Informação legal",
+        "gdpr": "RGPD",
+        "contact": "Contacto",
+        "copyright": "© {{year}} Europa Jobs. Todos os direitos reservados."
+    }
+}

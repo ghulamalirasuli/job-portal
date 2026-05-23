@@ -1,0 +1,18 @@
+includes:
+    - vendor/larastan/larastan/extension.neon
+
+parameters:
+    paths:
+        - app/
+        - database/factories/
+        - database/seeders/
+    level: 5
+    treatPhpDocTypesAsCertain: false
+    reportUnmatchedIgnoredErrors: false
+    ignoreErrors:
+        - identifier: nullsafe.neverNull
+    excludePaths:
+        - app/Http/Controllers/Auth/PasswordController.php
+        - app/Http/Controllers/Auth/NewPasswordController.php
+        - app/Http/Controllers/Auth/PasswordResetLinkController.php
+        - app/Http/Requests/Auth/LoginRequest.php

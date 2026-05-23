@@ -1,0 +1,71 @@
+{
+    "app": {
+        "name": "Europa Jobs",
+        "tagline": "Encuentra un empleo que mueva Europa."
+    },
+    "nav": {
+        "jobs": "Buscar empleo",
+        "companies": "Empresas",
+        "for_employers": "Para empresas",
+        "post_job": "Publicar oferta",
+        "login": "Iniciar sesión",
+        "register": "Registrarse",
+        "dashboard": "Panel",
+        "profile": "Perfil",
+        "settings": "Ajustes",
+        "logout": "Cerrar sesión"
+    },
+    "home": {
+        "hero_title": "Tu próximo empleo, en cualquier parte de Europa.",
+        "hero_subtitle": "Descubre miles de oportunidades verificadas en 24 países. Postúlate en un clic.",
+        "search_placeholder": "Puesto, palabra clave o empresa",
+        "location_placeholder": "Ciudad, país o remoto",
+        "search_button": "Buscar",
+        "for_seekers_title": "Para candidatos",
+        "for_seekers_body": "Crea un CV profesional y sigue cada candidatura en un solo lugar.",
+        "for_employers_title": "Para empresas",
+        "for_employers_body": "Llega a los candidatos adecuados en la UE con facturación conforme al RGPD.",
+        "cta_seeker": "Crear cuenta de candidato",
+        "cta_employer": "Crear cuenta de empresa"
+    },
+    "auth": {
+        "login_title": "Inicia sesión en tu cuenta",
+        "register_title": "Crear cuenta",
+        "register_subtitle": "Elige cómo quieres usar Europa Jobs.",
+        "register_as_seeker": "Busco empleo",
+        "register_as_employer": "Estoy contratando",
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "password_confirmation": "Confirmar contraseña",
+        "name": "Nombre completo",
+        "company_name": "Nombre de la empresa",
+        "country": "País",
+        "remember": "Recuérdame",
+        "forgot": "¿Olvidaste tu contraseña?",
+        "submit_login": "Iniciar sesión",
+        "submit_register": "Crear cuenta",
+        "have_account": "¿Ya tienes cuenta?",
+        "no_account": "¿No tienes cuenta?",
+        "log_in": "Iniciar sesión",
+        "sign_up": "Registrarse"
+    },
+    "common": {
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "delete": "Eliminar",
+        "back": "Atrás",
+        "loading": "Cargando…",
+        "search": "Buscar",
+        "yes": "Sí",
+        "no": "No",
+        "language_switcher_label": "Idioma"
+    },
+    "footer": {
+        "privacy": "Privacidad",
+        "terms": "Términos",
+        "imprint": "Aviso legal",
+        "gdpr": "RGPD",
+        "contact": "Contacto",
+        "copyright": "© {{year}} Europa Jobs. Todos los derechos reservados."
+    }
+}
