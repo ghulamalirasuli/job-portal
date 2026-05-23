@@ -1,3 +1,10 @@
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/f1f13277-01fc-4f66-b6f9-6a462ab32bab" />
+<img width="1918" height="932" alt="image" src="https://github.com/user-attachments/assets/f060921b-4640-46d6-a801-033e76248e91" />
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/71b67e89-c2c8-4b30-ac32-b2e1fd1927da" />
+<img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/5d739707-8950-4568-a883-adb31a62a3a2" />
+<img width="1918" height="935" alt="image" src="https://github.com/user-attachments/assets/ceebb015-e9e1-4458-8ac3-d8804c6bc10f" />
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/e8487b28-0000-4a89-95af-35a28c24b30d" />
+<img width="1912" height="796" alt="image" src="https://github.com/user-attachments/assets/62f3efb2-8878-4766-830b-9fd0bf4572e3" />
 # Europa Jobs — European Job Portal
 
 A multilingual, GDPR-compliant job portal targeting European markets. Built with
