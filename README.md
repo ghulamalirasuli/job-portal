@@ -5,6 +5,8 @@
 <img width="1918" height="935" alt="image" src="https://github.com/user-attachments/assets/ceebb015-e9e1-4458-8ac3-d8804c6bc10f" />
 <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/e8487b28-0000-4a89-95af-35a28c24b30d" />
 <img width="1912" height="796" alt="image" src="https://github.com/user-attachments/assets/62f3efb2-8878-4766-830b-9fd0bf4572e3" />
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/38545ace-c4c0-4b37-bf69-712a7d7ccfc9" />
+<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/72814564-9f83-4d8f-acd3-c7048a273139" />
 # Europa Jobs — European Job Portal
 
 A multilingual, GDPR-compliant job portal targeting European markets. Built with
